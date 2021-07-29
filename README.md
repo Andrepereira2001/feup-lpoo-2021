@@ -1,2 +1,2 @@
 # feup-lpoo-2021
-This repository contais the final project that I have done for the course unit LCOM while studing in FEUP
+Project develop for the course unit LPOO while studing in FEUP
